@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 50">
+  <rect width="150" height="50" fill="white"/>
+  <text x="10" y="30" font-family="Arial" font-size="24" fill="red">FASO</text>
+  <text x="80" y="30" font-family="Arial" font-size="24" fill="green">CODER</text>
+  <circle cx="120" cy="25" r="20" fill="gold"/>
+  <text x="115" y="30" font-family="Arial" font-size="16" fill="black">&#x1F4BB;</text> <!-- Laptop emoji as programming symbol -->
+</svg>
